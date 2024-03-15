@@ -1,2 +1,3 @@
 # ESP32_Arduino_Hook_System
-bir oyuncak yakalama otomatının yaptığı işlemleri yapan bir arduino projesi
+
+An Arduino project that performs the same operations as a toy catching automaton.
